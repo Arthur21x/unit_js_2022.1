@@ -1,0 +1,26 @@
+#itemListView ul{
+    list-style: none;
+    padding: 0px;
+}
+
+#itemListView ul li{
+    padding: 12px;
+    border-radius: 10px;
+    background-color: #E6E6E6;
+    margin-bottom: 10px;
+}
+
+#itemListView ul li span{
+    display: block;
+}
+
+span.title{
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    
+}
+
+span.status{
+    color:#999;
+}
